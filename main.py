@@ -1,4 +1,7 @@
-from flask import Flask, render_template
+from flask import Flask, render_template 
+import os
+import jinja2
+
 #create a Flask instance
 app = Flask(__name__)
 
@@ -7,6 +10,18 @@ app = Flask(__name__)
 def home():
     #Flask import uses Jinga to render HTML
     return render_template("home.html")
+
+@app.route('/videos')
+def video():
+  return render_template("videos.html")
+
+@app.route('/calculator')
+def calulator():
+  return render_template("calculator.html")
+
+@app.route('/journals')
+def journals():
+  return render_template("journals.html")
 
 if __name__ == "__main__":
     #runs the application on the repl development server
