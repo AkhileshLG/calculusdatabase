@@ -36,6 +36,8 @@ This .html file contained an image that was also a link to a youtube channel, th
 This .html file contained an image that would bring the user to a derivated product rule calculator.
 ### journal.html
 This .html file contained cards that had links to the student journals for the class.
+### quizzes.html
+This .html file contains that code the has the quizzes.
 
 # Requirements
 - We used Git to share our code with the teacher and everyone else.
