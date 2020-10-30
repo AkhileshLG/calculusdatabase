@@ -1,36 +1,35 @@
-# Contributions--Week 9
+# Contributions
 ### Akhilesh Genneri:
--Self grade: 20/20, Scrum Master: 5/5
--Goal: integration of our repls (calculators, animation, quizzes)--look at Github commits
+-Self: 20/20, Scrum Master: 5/5
+-Goal: integration of our repls (calculators, animation, quizzes)--check Github for commits
 -https://repl.it/@Akprathipati/flaskportfolio-1#main.py
 -https://github.com/AkhileshLG/flaskportfolio-1.git
 
 ### Noya Hafiz:
--Self grade: 20/20, Scrum Master: 5/5
--Goal-animation, readme
+-Self: 20/20, Scrum Master: 5/5
+Goal: animation, readme
 -https://repl.it/join/rmvvpzol-noyahafiz
 -https://github.com/noyah81/copy--background-within-project.git
 
 ### Ak Prathipati:
--Self grade: 20/20, Scrum Master: 5/5
+-Self: 20/20, Scrum Master: 5/5
 -Goal: filming youtube video (to post on website), quiz on product and quotient rule, power rule calcultor, fixed bug (no negative exponents were't allowed; Ak fixed this issue)
 -https://repl.it/join/fzhaszuu-akprathipati
 -https://repl.it/join/fqavkewk-akprathipati
 -https://cs-p-hq.slack.com/files/U01APJJ2VR6/F01DMUCB9S9/zoom_1.mp4
 
 ### Karam Alshaikh
--Self grade: 20/20, Scrum Master: 5/5
--Goal: filming youtube video, integral calculator (also deritvative, but it is the same as Ak's) 
+-Self: 20/20, Scrum Master: 5/5
+-Goal: filming youtube video, integral calculator (also deritvative calculator, but it is the same as Ak's) 
 -https://repl.it/@KaramAlshaikh/Derivativeintegral-calculator#main.py
 -https://cs-p-hq.slack.com/files/U01APJJ2VR6/F01DMUCB9S9/zoom_1.mp4
 
-### Max Wang
--Self grade: 20/20, Scrum Master: 4/5
+Max Wang
+-Self: 20/20, Scrum Master: 4/5
 -Goal: basic calculator
 -present in class
 
 # Purpose:
-
 - This website is meant to help students understand calculus concepts
 - There are links to various sources
 - Project Theme: Calculus Resources
@@ -76,3 +75,18 @@ This .html file contains that code the has the quizzes.
 - We used Flask and routes to make the website pretty and organized. We also used it to make the actual website.
 - We used Bootstrap so that the code would look organzied even if the tab was smaller.
 - We used Jinja to write the code in blocks so that we could use the html and make the navigation bar easier to manage.
+
+# Contributions
+Akhilesh Genneri:
+-integration of our repls (calculators, animation, quizzes)
+Noya Hafiz:
+Goal- animation
+-https://repl.it/join/rmvvpzol-noyahafiz
+
+Ak Prathipati:
+-Goal: filming youtube video (to post on website), quiz on product and quotient rule, power rule calcultor, fixed bug (no negative exponents were't allowed; Ak fixed this issue)
+-https://repl.it/join/fzhaszuu-akprathipati
+-https://repl.it/@KaramAlshaikh/Derivativeintegral-calculator#main.py
+Karam Alshaikh
+-Goal: filming youtube video, integral calculator (also deritvative, but it is the same as Ak's) 
+
