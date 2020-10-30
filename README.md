@@ -45,3 +45,6 @@ This .html file contains that code the has the quizzes.
 - We used Flask and routes to make the website pretty and organized. We also used it to make the actual website.
 - We used Bootstrap so that the code would look organzied even if the tab was smaller.
 - We used Jinja to write the code in blocks so that we could use the html and make the navigation bar easier to manage.
+
+# Contributions
+Akhilesh Genneri:
