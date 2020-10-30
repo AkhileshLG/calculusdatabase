@@ -26,6 +26,7 @@
 
 ### Max Wang
 -Self grade: 20/20, Scrum Master: 4/5
+-Goal: basic calculator
 -present in class
 
 # Purpose:
