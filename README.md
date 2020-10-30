@@ -3,12 +3,14 @@
 -Self grade: 20/20, Scrum Master: 5/5
 -Goal: integration of our repls (calculators, animation, quizzes)--look at Github commits
 -https://repl.it/@Akprathipati/flaskportfolio-1#main.py
+-https://github.com/AkhileshLG/flaskportfolio-1.git
 
 ### Noya Hafiz:
 -Self grade: 20/20, Scrum Master: 5/5
 -Goal-animation, readme
 -https://repl.it/join/rmvvpzol-noyahafiz
 -https://github.com/noyah81/copy--background-within-project.git
+
 ### Ak Prathipati:
 -Self grade: 20/20, Scrum Master: 5/5
 -Goal: filming youtube video (to post on website), quiz on product and quotient rule, power rule calcultor, fixed bug (no negative exponents were't allowed; Ak fixed this issue)
