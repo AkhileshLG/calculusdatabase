@@ -18,6 +18,7 @@ Goal: animation, readme
 -https://repl.it/join/fqavkewk-akprathipati
 -https://drive.google.com/file/d/1xojX049hX4j75dXAYVJWbJvml3F10uKb/view?usp=sharing
 
+
 ### Karam Alshaikh
 -Self: 20/20, Scrum Master: 5/5
 -Goal: filming youtube video, integral calculator (also deritvative calculator, but it is the same as Ak's) 
