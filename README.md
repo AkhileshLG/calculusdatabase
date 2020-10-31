@@ -14,7 +14,7 @@ Goal: animation, readme
 ### Ak Prathipati:
 -Self: 20/20, Scrum Master: 5/5
 -Goal: filming youtube video (to post on website), quiz on product and quotient rule, power rule calcultor, fixed bug (no negative exponents were't allowed; Ak fixed this issue)
--https://repl.it/join/fzhaszuu-akprathipati
+-https://repl.it/join/edlmedqi-akprathipati
 -https://repl.it/join/fqavkewk-akprathipati
 -https://cs-p-hq.slack.com/files/U01APJJ2VR6/F01DMUCB9S9/zoom_1.mp4
 
