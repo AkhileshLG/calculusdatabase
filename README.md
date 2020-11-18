@@ -1,4 +1,4 @@
-#To do List(goals for project): 
+# To do List(goals for project): 
 - Enhance the Calculus Experince 
 - Create Interactice Calculus quiz
 - Make vidoe lessons that will guide them 
