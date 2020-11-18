@@ -1,3 +1,21 @@
+#To do List(goals for project): 
+- Enhance the Calculus Experince 
+- Create Interactice Calculus quiz
+- Make vidoe lessons that will guide them 
+- Create and Interactive website that enhances the experience 
+- Incorporate Jinja to make the website look more professional 
+# Instructions to Run: 
+1) Download the code from Github 
+2) Import it to IntelliJ
+3) Run the code and configure the extensions 
+4) When there is a url, you will be able to click it and it will run the website
+5) With the Rasberry Pi, we will be able to make it local IP, that means that this process can be cut short. 
+
+
+
+
+
+
 # Contributions
 ### Akhilesh Genneri:
 -Self: 20/20, Scrum Master: 5/5
