@@ -95,4 +95,5 @@ This .html file contains that code the has the quizzes.
 - We used Bootstrap so that the code would look organzied even if the tab was smaller.
 - We used Jinja to write the code in blocks so that we could use the html and make the navigation bar easier to manage.
 
-
+# Project Plan
+Link: https://docs.google.com/document/d/1osLnRfn2oXWQUJOsuZCBAKYdfTlzNnoyqi67U_MY8C4/edit?usp=sharing
