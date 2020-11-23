@@ -1,8 +1,8 @@
 # Python Hello Series
 
-### Project Plan Link: https://docs.google.com/document/d/129ffXT__N8ygqVLxYV1BaC-NLds4VpWoX_90uPN_HBA/edit?usp=sharing
+Project Plan Link: https://docs.google.com/document/d/129ffXT__N8ygqVLxYV1BaC-NLds4VpWoX_90uPN_HBA/edit?usp=sharing
 
-### Repl w/README.md: https://repl.it/@noyahafiz/Python-Hello-Series#README.md
+Repl w/README.md: https://repl.it/@noyahafiz/Python-Hello-Series#README.md
 
 
 
@@ -27,7 +27,6 @@ GitHub Repository: https://github.com/AkhileshLG/calculusdatabase3.git
 
 # Contributions
 ### Akhilesh Genneri:
--Self: 20/20, Scrum Master: 5/5
 -Goal: integration of our repls (calculators, animation, quizzes)--check Github for commits
 -https://repl.it/@Akprathipati/flaskportfolio-1#main.py
 -https://github.com/AkhileshLG/flaskportfolio-1.git
