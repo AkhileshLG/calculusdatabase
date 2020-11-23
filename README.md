@@ -10,7 +10,9 @@ Repl w/README.md: https://repl.it/@noyahafiz/Python-Hello-Series#README.md
 
 Project Plan Link: https://docs.google.com/document/d/1osLnRfn2oXWQUJOsuZCBAKYdfTlzNnoyqi67U_MY8C4/edit?usp=sharing
 
-GitHub Repository: https://github.com/AkhileshLG/calculusdatabase3.git 
+Repl w/README.md: https://repl.it/@Akprathipati/flaskportfolio-1#main.py
+
+
 
 # To do List(goals for project): 
 - Enhance the Calculus Experince 
