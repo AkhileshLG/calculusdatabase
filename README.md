@@ -1,3 +1,7 @@
+
+# Project Plan
+Link: https://docs.google.com/document/d/1osLnRfn2oXWQUJOsuZCBAKYdfTlzNnoyqi67U_MY8C4/edit?usp=sharing
+
 # To do List(goals for project): 
 - Enhance the Calculus Experince 
 - Create Interactice Calculus quiz
@@ -10,11 +14,6 @@
 3) Run the code and configure the extensions 
 4) When there is a url, you will be able to click it and it will run the website
 5) With the Rasberry Pi, we will be able to make it local IP, that means that this process can be cut short. 
-
-
-
-
-
 
 # Contributions
 ### Akhilesh Genneri:
@@ -94,6 +93,3 @@ This .html file contains that code the has the quizzes.
 - We used Flask and routes to make the website pretty and organized. We also used it to make the actual website.
 - We used Bootstrap so that the code would look organzied even if the tab was smaller.
 - We used Jinja to write the code in blocks so that we could use the html and make the navigation bar easier to manage.
-
-# Project Plan
-Link: https://docs.google.com/document/d/1osLnRfn2oXWQUJOsuZCBAKYdfTlzNnoyqi67U_MY8C4/edit?usp=sharing
