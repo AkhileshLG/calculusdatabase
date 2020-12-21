@@ -16,7 +16,7 @@ def home():
 #connect to videos page
 @app.route('/videos')
 def video():
-    return render_template("videos.html" )
+    return render_template("videos.html")
 
 
 #connects to calculator page
@@ -32,8 +32,10 @@ def journals():
 
 @app.route('/quizzes')
 def quizzes():
-    return render_template("quizzes.html", right=True)
+   return render_template("quizzes.html")
 
 if __name__ == "__main__":
     #runs the application on the repl development server
     app.run(debug=True, port='5000', host='127.0.0.1')
+    #KK
+    #Karam
